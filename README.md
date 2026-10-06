@@ -1,6 +1,6 @@
 # AN JUN LI
 
-📞 +60 1169760925 / +86 18981211195 | ✉️ workeran8@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/AJL33-GGbond)
+📞 +60 1169760925 / +86 18981211195 | ✉️ workeran8@gmail.com | 🔗 https://www.linkedin.com/in/an-jun-li-779360367/| 💻 [GitHub](https://github.com/AJL33-GGbond)
 
 ## PROFESSIONAL SUMMARY
 Dedicated and self-driven Computer Science undergraduate specializing in Computer Systems and Networking. Possess a robust foundation in computer networks, operating systems, and cybersecurity, with theoretical and practical exposure to VPN technologies, WAN architectures, and routing concepts. Proficient in Java, Python, and C++, alongside modern development and containerization tools like Docker and GitHub. Seeking a remote/online Network Engineering internship to leverage a strong academic background and programming skills in a real-world network operations and automation environment.
